@@ -64,6 +64,8 @@ sed -i -e "s/{Phys. Chem. Chem. Phys.}/PCCP/gI" $1
 
 sed -i -e "s/{The Journal of Physical Chemistry B}/JPCB/gI" $1
 sed -i -e "s/{J. Phys. Chem. B}/JPCB/gI" $1
+sed -i -e "s/{The Journal of Physical Chemistry A}/JPCA/gI" $1
+sed -i -e "s/{J. Phys. Chem. A}/JPCA/gI" $1
 
 sed -i -e "s/{Chem. Phys. Lett.}/CPL/gI" $1
 sed -i -e "s/{Chemical Physics Letters}/CPL/gI" $1
@@ -225,7 +227,74 @@ sed -i -e 's/{Adv. Colloid Interface Sci.}/ACIS/gI' $1
 sed -i -e 's/{annalen der physik}/ADP/gI' $1
 sed -i -e 's/{Ann. Phys.}/ADP/gI' $1
 
+sed -i -e 's/{Z. Naturforsch. A}/ZfN/gI' $1
 
+sed -i -e 's/{Trends Cell Biol.}/TCB/gI' $1
+sed -i -e 's/{Trends Cell Biology}/TCB/gI' $1
+
+sed -i -e 's/{J. Bacteriol.}/JB/gI' $1
+sed -i -e 's/{Journal of bacteriology}/JB/gI' $1
+
+sed -i -e 's/{Proc. R. Soc. Lond. B Bio. Sci.}/PRSLB/gI' $1
+sed -i -e 's/{Proceedings of the Royal Society of London. Series B. Biological Sciences}/PRSLB/gI' $1
+
+
+sed -i -e 's/{Journal of the American Chemical Society}/JACS/gI' $1
+sed -i -e 's/{J. Am. Chem. Soc.}/JACS/gI' $1
+
+sed -i -e 's/{Physical Reports}/PRT/gI' $1
+sed -i -e 's/{Phys. Rep.}/PRT/gI' $1
+
+sed -i -e 's/{PloS One}/PO/gI' $1
+
+sed -i -e 's/{Eur. Phys. J. Special Topics)}/EPJST/gI' $1
+sed -i -e 's/{The European Physical Journal Special Topics}/EPJST/gI' $1
+
+sed -i -e 's/{Physical biology}/PB/gI' $1
+sed -i -e 's/{Phys. Biol.}/PB/gI' $1
+
+sed -i -e 's/{biophysical journal}/BPJ/gI' $1
+sed -i -e 's/{Biophys. J.}/BPJ/gI' $1
+
+sed -i -e 's/{J. Phys. A}/JPA/gI' $1
+sed -i -e 's/{Journal of Physics A: Mathematical and Theoretical}/JPA/gI' $1
+sed -i -e 's/{Journal of Physics A}/JPA/gI' $1
+
+sed -i -e 's/{Journal of Fluid Mechanics}/JFM/gI' $1
+sed -i -e 's/{J. Fluid Mech.}/JFM/gI' $1
+
+sed -i -e 's/{SIAM J. Appl. Math}/SJAM/gI' $1
+sed -i -e 's/{SIAM Journal of Applied Mathematics}/SJAM/gI' $1
+
+sed -i -e 's/{New J. Phys.}/NJP/gI' $1
+sed -i -e 's/{New Journal of Physics}/NJP/gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
+#sed -i -e 's/{}//gI' $1
 #sed -i -e 's/{}//gI' $1
 #sed -i -e 's/{}//gI' $1
 #sed -i -e 's/{}//gI' $1

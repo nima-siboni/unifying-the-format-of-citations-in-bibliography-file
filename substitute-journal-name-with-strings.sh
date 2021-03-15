@@ -268,38 +268,56 @@ sed -i -e 's/{SIAM Journal of Applied Mathematics}/SJAM/gI' $1
 
 sed -i -e 's/{New J. Phys.}/NJP/gI' $1
 sed -i -e 's/{New Journal of Physics}/NJP/gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
-#sed -i -e 's/{}//gI' $1
+
+sed -i -e 's/{Organic process research \& development}/OPRD/gI' $1
+sed -i -e 's/{Org. Process Res. Dev.}/OPRD/gI' $1
+
+
+sed -i -e 's/{Frontiers in Materials}/FM/gI' $1
+sed -i -e 's/{Front. Mater.}/FM/gI' $1
+
+sed -i -e 's/{Npj Comput. Mater.}/NPJCM/gI' $1
+sed -i -e 's/{npj computational materials}/NPJCM/gI' $1
+
+
+sed -i -e 's/{Computational Materials Science}/CMS/gI' $1
+sed -i -e 's/{Comput. Mater. Sci.}/CMS/gI' $1
+
+sed -i -e 's/{Machine Learning: Science and Technology}/MLST/gI' $1
+sed -i -e 's/{Mach. Learn.: Sci. Technol.}/MLST/gI' $1
+
+sed -i -e 's/{Inf. Fusion}/IF/gI' $1
+sed -i -e 's/{Information Fusion}/IF/gI' $1
+
+sed -i -e 's/{Advanced Intelligent Systems}/AISC/gI' $1
+sed -i -e 's/{Adv. Intell. Syst. Comput.}/AISC/gI' $1
+
+sed -i -e 's/{International Journal of Plasticity}/IJP/gI' $1
+sed -i -e 's/{Int. J. Plast.}/IJP/gI' $1
+
+sed -i -e 's/{Science Advances}/SA/gI' $1
+sed -i -e 's/{Sci. Adv.}/SA/gI' $1
+
+sed -i -e 's/{Advanced Modeling and Simulation in Engineering Sciences}/AMSES/gI' $1
+sed -i -e 's/{Adv. Model. Simul. Eng. Sci.}/AMSES/gI' $1
+
+sed -i -e 's/{Integrating Materials and Manufacturing Innovation}/IMMI/gI' $1
+sed -i -e 's/{Integr. Mater. Manuf. Innov.}/IMMI/gI' $1
+
+sed -i -e 's/{APL Mater."}/APLM/gI' $1
+sed -i -e 's/{APL Materials}/APLM/gI' $1
+
+sed -i -e 's/{Phys. Rev. Materials}/PRM/gI' $1
+sed -i -e 's/{Physical Review Materials}/PRM/gI' $1
+
+sed -i -e 's/{Neural computation}/NeCo/gI' $1
+sed -i -e 's/{Neural Comput.}/NeCo/gI' $1
+
+sed -i -e 's/{Nature Machine Intelligence}/NMI/gI' $1
+sed -i -e 's/{Nat. Mach. Intell.}/NMI/gI' $1
+
+sed -i -e 's/{Journal of the Mechanics and Physics of Solids}/JMPS/gI' $1
+sed -i -e 's/{J. Mech. Phys. Solids}/JMPS/gI' $1
 #sed -i -e 's/{}//gI' $1
 #sed -i -e 's/{}//gI' $1
 #sed -i -e 's/{}//gI' $1
